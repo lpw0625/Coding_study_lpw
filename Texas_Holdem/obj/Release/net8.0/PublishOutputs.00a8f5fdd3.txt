@@ -1,0 +1,5 @@
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\bin\Release\net8.0\publish\Texas_Holdem.exe
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\bin\Release\net8.0\publish\Texas_Holdem.dll
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\bin\Release\net8.0\publish\Texas_Holdem.deps.json
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\bin\Release\net8.0\publish\Texas_Holdem.runtimeconfig.json
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\bin\Release\net8.0\publish\Texas_Holdem.pdb

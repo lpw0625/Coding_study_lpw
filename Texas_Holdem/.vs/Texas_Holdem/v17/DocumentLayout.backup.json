@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Texas_Holdem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2609852C-2085-4053-9188-A3595E35CFB4}|Texas_Holdem\\Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\texas_holdem\\texas_holdem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2609852C-2085-4053-9188-A3595E35CFB4}|Texas_Holdem\\Texas_Holdem.csproj|solutionrelative:texas_holdem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Texas_Holdem\\Texas_Holdem\\Program.cs",
+              "RelativeDocumentMoniker": "Texas_Holdem\\Program.cs",
+              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Texas_Holdem\\Texas_Holdem\\Program.cs",
+              "RelativeToolTip": "Texas_Holdem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T04:20:30.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

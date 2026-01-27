@@ -1,0 +1,14 @@
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\bin\Release\net8.0\Texas_Holdem.exe
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\bin\Release\net8.0\Texas_Holdem.deps.json
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\bin\Release\net8.0\Texas_Holdem.runtimeconfig.json
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\bin\Release\net8.0\Texas_Holdem.dll
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\bin\Release\net8.0\Texas_Holdem.pdb
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\obj\Release\net8.0\Texas_Holdem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\obj\Release\net8.0\Texas_Holdem.AssemblyInfoInputs.cache
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\obj\Release\net8.0\Texas_Holdem.AssemblyInfo.cs
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\obj\Release\net8.0\Texas_Holdem.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\obj\Release\net8.0\Texas_Holdem.dll
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\obj\Release\net8.0\refint\Texas_Holdem.dll
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\obj\Release\net8.0\Texas_Holdem.pdb
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\obj\Release\net8.0\Texas_Holdem.genruntimeconfig.cache
+C:\Users\SBS\Desktop\Coding_study\Texas_Holdem\Texas_Holdem\obj\Release\net8.0\ref\Texas_Holdem.dll
