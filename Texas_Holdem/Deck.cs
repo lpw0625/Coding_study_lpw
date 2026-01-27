@@ -35,6 +35,10 @@ namespace Texas_Holdem
 
                 foreach (Rank r in Enum.GetValues(typeof(Rank)))
                 {
+                    if (r == Rank.None)
+
+                        continue;
+
                     PockerCards.Add(new Card(s, r));
                 }
             }

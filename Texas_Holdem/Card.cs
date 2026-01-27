@@ -18,7 +18,7 @@ namespace Texas_Holdem
 
     public enum Rank
     {
-
+        None = 0,
         Two = 2,
         Three,
         Four,
@@ -27,7 +27,7 @@ namespace Texas_Holdem
         Seven,
         Eight,
         Nine,
-        Ten,
+        Ten = 10,
         Jack = 11,
         Queen = 12,
         King = 13,

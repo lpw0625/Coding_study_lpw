@@ -247,9 +247,26 @@ namespace Texas_Holdem
 
                 return HandType.Flush;
 
-            // if(IsStraight(sorted))
+            HandType straightResult = IsStraight(sorted);
 
-                return HandType.Straight;
+            if (straightResult != HandType.None)
+
+                    return straightResult;
+
+            if (IsTriple(sorted))
+
+                return HandType.Triple;
+
+            if (IsTwoPair(sorted))
+
+                    return HandType.TwoPair;
+
+            if (IsOnePair(sorted))
+
+                return HandType.OnePair;
+
+
+            return HandType.HighCard;
 
 
         }

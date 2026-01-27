@@ -60,9 +60,25 @@ namespace Texas_Holdem
             holdemManager.ShowBoard();
 
             System.Console.WriteLine("라운드 종료. 승자는 누굴까요? ");
-      
 
-          
+            Console.WriteLine("\n=== [ 5. 쇼다운: 승자 판정 ] ===");
+
+            HandRanking ranking = new HandRanking();
+
+            foreach (var p in allPlayers)
+            {
+                p.FinalHand = ranking.ComPareHandRank(p.Hand, holdemManager.CommunityCards);
+
+                Console.WriteLine($"{p.PlayerName}의 최종 족보 : {p.FinalHand}");
+            }
+
+
+            var sortedWinners = allPlayers.OrderByDescending(p => p.FinalHand).ToList();
+            var winner = sortedWinners[0];
+
+            Console.WriteLine("\n--------------------------------------");
+            Console.WriteLine($" ★ 승자 : {winner.PlayerName} 족보 : {winner.FinalHand}) ★ ");
+            Console.WriteLine("--------------------------------------");
 
         }
     }

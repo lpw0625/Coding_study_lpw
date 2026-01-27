@@ -11,6 +11,8 @@ namespace Texas_Holdem
         public string PlayerName { get; private set; }
         public int GameMoney { get; private set; }
 
+        public HandType FinalHand { get; set; }
+
         // 플레이어가 손에 들고 있는 카드 리스트 (텍사스 홀덤 => 2장) 
         public List<Card> Hand { get; private set; }
 

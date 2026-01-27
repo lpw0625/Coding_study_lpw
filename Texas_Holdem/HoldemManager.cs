@@ -11,6 +11,8 @@ namespace Texas_Holdem
         private Deck deck;
         private List<Player> players;
 
+        public List<Card> CommunityCards { get { return communityCards; } }
+
         private List<Card> communityCards; // 바닥에 깔리는 5장의 카드 공유
 
         public HoldemManager( )
