@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\",
+  "WorkspaceRootPath": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study\\coding_study_lpw\\texas_holdem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study_lpw\\texas_holdem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study\\coding_study_lpw\\texas_holdem\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|solutionrelative:deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study_lpw\\texas_holdem\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study\\coding_study_lpw\\texas_holdem\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study\\coding_study_lpw\\texas_holdem\\handranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study_lpw\\texas_holdem\\handranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|solutionrelative:handranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study\\coding_study_lpw\\texas_holdem\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study_lpw\\texas_holdem\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|solutionrelative:deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study_lpw\\texas_holdem\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study_lpw\\texas_holdem\\bettingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|solutionrelative:bettingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study_lpw\\texas_holdem\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|solutionrelative:table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study\\coding_study_lpw\\texas_holdem\\holdemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study_lpw\\texas_holdem\\holdemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|solutionrelative:holdemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|c:\\users\\dlvud\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\coding_study\\coding_study_lpw\\texas_holdem\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB128046-2AB9-EB77-60D3-7A07EB423649}|Texas_Holdem.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 181,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\Card.cs",
+              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\Card.cs",
               "RelativeDocumentMoniker": "Card.cs",
-              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\Card.cs",
+              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\Card.cs",
               "RelativeToolTip": "Card.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowC0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAA6wC0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T07:16:19.91Z",
               "IsPinned": true,
@@ -60,11 +64,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HandRanking.cs",
-              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\HandRanking.cs",
+              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\HandRanking.cs",
               "RelativeDocumentMoniker": "HandRanking.cs",
-              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\HandRanking.cs",
+              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\HandRanking.cs",
               "RelativeToolTip": "HandRanking.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAcwAABAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,24 +77,37 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T07:25:10.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\Program.cs",
+              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAgwEEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T04:56:34.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Deck.cs",
-              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\Deck.cs",
+              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\Deck.cs",
               "RelativeDocumentMoniker": "Deck.cs",
-              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\Deck.cs",
+              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\Deck.cs",
               "RelativeToolTip": "Deck.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,41 +117,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "BettingManager.cs",
+              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\BettingManager.cs",
+              "RelativeDocumentMoniker": "BettingManager.cs",
+              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\BettingManager.cs",
+              "RelativeToolTip": "BettingManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T05:13:25.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HoldemManager.cs",
-              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\HoldemManager.cs",
+              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\HoldemManager.cs",
               "RelativeDocumentMoniker": "HoldemManager.cs",
-              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\HoldemManager.cs",
+              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\HoldemManager.cs",
               "RelativeToolTip": "HoldemManager.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAgwCwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T07:27:11.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T07:27:11.15Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\Player.cs",
-              "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\Player.cs",
-              "RelativeToolTip": "Player.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvw0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T07:25:10.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Table.cs",
-              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\Table.cs",
+              "DocumentMoniker": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\Table.cs",
               "RelativeDocumentMoniker": "Table.cs",
-              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\Table.cs",
+              "ToolTip": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Coding_study_lpw\\Texas_Holdem\\Table.cs",
               "RelativeToolTip": "Table.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T07:16:11.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T07:16:11.351Z"
             }
           ]
         }

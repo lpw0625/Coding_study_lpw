@@ -16,11 +16,14 @@ namespace Texas_Holdem
         // 플레이어가 손에 들고 있는 카드 리스트 (텍사스 홀덤 => 2장) 
         public List<Card> Hand { get; private set; }
 
+        public bool IsFolded { get; set; }
+
         public Player (string _playerName, int _ininitialMoney = 10000)
         {
             PlayerName = _playerName;
             GameMoney = _ininitialMoney;
             Hand = new List<Card>();
+            IsFolded = false; // 기본값은 게임 참여로 한다는 가정.
 
         }
 
@@ -60,6 +63,7 @@ namespace Texas_Holdem
         {
             
             Hand.Clear();
+            IsFolded = false; // 새 라운드가 시작되면 기권 상태를 초기화.
         }
     }
 }

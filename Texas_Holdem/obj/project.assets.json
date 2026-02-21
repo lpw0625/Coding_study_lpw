@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dlvud\\OneDrive\\바탕 화면\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\Texas_Holdem.csproj",
+      "projectUniqueName": "C:\\Users\\dlvud\\OneDrive\\바탕 화면\\Coding_study_lpw\\Texas_Holdem\\Texas_Holdem.csproj",
       "projectName": "Texas_Holdem",
-      "projectPath": "C:\\Users\\dlvud\\OneDrive\\바탕 화면\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\Texas_Holdem.csproj",
+      "projectPath": "C:\\Users\\dlvud\\OneDrive\\바탕 화면\\Coding_study_lpw\\Texas_Holdem\\Texas_Holdem.csproj",
       "packagesPath": "C:\\Users\\dlvud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dlvud\\OneDrive\\바탕 화면\\Coding_study\\Coding_study_lpw\\Texas_Holdem\\obj\\",
+      "outputPath": "C:\\Users\\dlvud\\OneDrive\\바탕 화면\\Coding_study_lpw\\Texas_Holdem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dlvud\\AppData\\Roaming\\NuGet\\NuGet.Config",

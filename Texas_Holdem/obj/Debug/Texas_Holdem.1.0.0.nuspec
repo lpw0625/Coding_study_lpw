@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Texas_Holdem</id>
+    <version>1.0.0</version>
+    <authors>Texas_Holdem</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="975a39cea7b1c47053d411ea456e84d5c9cbc7d3" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\dlvud\OneDrive\바탕 화면\Coding_study_lpw\Texas_Holdem\bin\Debug\net8.0\Texas_Holdem.runtimeconfig.json" target="lib\net8.0\Texas_Holdem.runtimeconfig.json" />
+    <file src="C:\Users\dlvud\OneDrive\바탕 화면\Coding_study_lpw\Texas_Holdem\bin\Debug\net8.0\Texas_Holdem.dll" target="lib\net8.0\Texas_Holdem.dll" />
+  </files>
+</package>

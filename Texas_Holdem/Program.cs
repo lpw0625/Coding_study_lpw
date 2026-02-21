@@ -9,10 +9,10 @@ namespace Texas_Holdem
 
             // 1. 매니저와 플레이어 생성
             HoldemManager holdemManager = new HoldemManager();
-            Player mySelf = new Player("플레이어1");
-            Player cpu = new Player("컴퓨터(CPU)");
+            //Player mySelf = new Player("플레이어1");
+            //Player cpu = new Player("컴퓨터(CPU)");
 
-           string[] playerNames = { "나", "CPU1", "CPU2", "CPU3", "CPU4" };
+           string[] playerNames = { "나", "CPU1", "CPU2", "CPU3", "CPU4","CPU5","CPU7" };
            List<Player> allPlayers = new List<Player>();
 
            foreach (var name in playerNames)
@@ -22,24 +22,24 @@ namespace Texas_Holdem
                 allPlayers.Add(p);
             }
 
-            holdemManager.AddPlayer(mySelf);
-            holdemManager.AddPlayer(cpu);
+         
 
             // 2. 라운드 준비 (덱 셔플 등)
             holdemManager.PrepareGame();
 
             // 3. pre - flop : 각자 카드 2장씩 받기
 
-            mySelf.ReceiveCard(holdemManager.DrawFromDeck());
-            mySelf.ReceiveCard(holdemManager.DrawFromDeck());
+           foreach (var p in allPlayers)
+            {
+                p.ReceiveCard(holdemManager.DrawFromDeck());
+                p.ReceiveCard(holdemManager.DrawFromDeck());
+            }
 
-            cpu.ReceiveCard(holdemManager.DrawFromDeck());
-            cpu.ReceiveCard(holdemManager.DrawFromDeck());
-
+            Console.WriteLine("=== [ 1. 프리플랍 : 내 카드 확인 ] ===");
+            allPlayers[0].ShowHand(); // "나"의 카드만 보여준다.(긴장감 연출)
            
-            System.Console.WriteLine("=== [1. 프리플랍 : 손패 확인 ] ===");
-            mySelf.ShowHand();
-            cpu.ShowHand();
+    
+        
 
 
            // 4. Flop: 바닥 카드 3장 공개
